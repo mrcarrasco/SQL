@@ -1,3 +1,6 @@
 Para seleccionar todos los datos de la tabla empleados utilizas SELECT
 Ejemplo:
 SELECT * FROM empleados;
+
+Para seleccionar solo los nombres de los empleados
+SELECT nombres FROM empleados;
